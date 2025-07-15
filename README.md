@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bidyasagar Mohapatra</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bidyasagaranupam&label=Profile%20views&color=0e75b6&style=flat" alt="bidyasagaranupam" /> </p>
 
 
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/bidyasagar-mohapatra-b86581203/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HPbruqIOnfJVBv4HfVJtTYpRIglu95hF/view?usp=sharing](https://drive.google.com/file/d/1HPbruqIOnfJVBv4HfVJtTYpRIglu95hF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Prqwpn4kGu4rhI1FZbo3SvDjVew0kolS/view?usp=sharing](https://drive.google.com/file/d/1Prqwpn4kGu4rhI1FZbo3SvDjVew0kolS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
